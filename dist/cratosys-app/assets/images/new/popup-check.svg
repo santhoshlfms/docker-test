@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>popup-check</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Invoice-template-flow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Invoice-view-Add-multiple-items-check" transform="translate(-624.000000, -393.000000)">
+            <g id="Group-19" transform="translate(578.000000, 337.000000)">
+                <g id="popup-check" transform="translate(46.000000, 56.000000)">
+                    <rect id="Rectangle" fill="#F1F1F1" x="0" y="0" width="46" height="46" rx="23"></rect>
+                    <g id="icons8-check_book" transform="translate(9.000000, 13.000000)" fill-rule="nonzero">
+                        <polygon id="Rectangle" fill="#546E7A" transform="translate(9.335315, 21.354112) rotate(45.000000) translate(-9.335315, -21.354112) " points="8.36235145 20.7054693 10.3082787 20.7054693 10.3082787 22.0027542 8.36235145 22.0027542"></polygon>
+                        <path d="M27.2432432,13.6216216 C27.2432432,13.9803243 26.9532973,14.2702703 26.5945946,14.2702703 L0.648648649,14.2702703 C0.289945946,14.2702703 0,13.9803243 0,13.6216216 L0,0.648648649 C0,0.289945946 0.289945946,0 0.648648649,0 L26.5945946,0 C26.9532973,0 27.2432432,0.289945946 27.2432432,0.648648649 L27.2432432,13.6216216 Z" id="Path" fill="#13C872"></path>
+                        <rect id="Rectangle" fill="#D2EEE1" x="1.2972973" y="3.24324324" width="24.6486486" height="9.72972973"></rect>
+                        <g id="Group" transform="translate(3.243243, 5.837838)" fill="#015250">
+                            <rect id="Rectangle" x="14.9189189" y="0" width="5.83783784" height="1.2972973"></rect>
+                            <rect id="Rectangle" x="14.9189189" y="3.24324324" width="5.83783784" height="1.2972973"></rect>
+                            <rect id="Rectangle" x="0" y="0" width="11.6756757" height="1.2972973"></rect>
+                            <rect id="Rectangle" x="0" y="3.24324324" width="11.6756757" height="1.2972973"></rect>
+                        </g>
+                        <polygon id="Rectangle" fill="#455A64" transform="translate(19.654832, 8.280432) rotate(-134.979744) translate(-19.654832, -8.280432) " points="19.0061437 7.3073995 20.3035204 7.3073995 20.3035204 9.2534645 19.0061437 9.2534645"></polygon>
+                        <g id="Group" transform="translate(5.189189, 7.783784)" fill="#E91E63">
+                            <path d="M0.472864865,14.4836757 C1.10464865,15.1167568 2.12821622,15.1174054 2.76064865,14.4862703 L6.96064865,10.2972973 L4.67610811,8.00627027 L0.476108108,12.1952432 C-0.156324324,12.8257297 -0.158918919,13.8512432 0.472864865,14.4836757 Z" id="Path"></path>
+                            <path d="M13.7876757,0.278918919 L14.7055135,1.19610811 C14.7055135,1.19610811 13.5444324,3.71351351 12.6291892,4.62875676 C11.7139459,5.544 7.128,10.1299459 7.128,10.1299459 L4.83502703,7.83632432 C4.83502703,7.83632432 9.41643243,3.25491892 10.3362162,2.33513514 C11.2553514,1.416 13.7876757,0.278918919 13.7876757,0.278918919 Z" id="Path"></path>
+                        </g>
+                        <polygon id="Rectangle" fill="#FFC107" transform="translate(11.170192, 16.767345) rotate(-135.000000) translate(-11.170192, -16.767345) " points="9.5482614 16.1187024 12.7921222 16.1187024 12.7921222 17.4159872 9.5482614 17.4159872"></polygon>
+                        <polygon id="Rectangle" fill="#90A4AE" transform="translate(11.170021, 20.894643) rotate(45.000000) translate(-11.170021, -20.894643) " points="10.521379 17.3271094 11.8186639 17.3271094 11.8186639 24.4621761 10.521379 24.4621761"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

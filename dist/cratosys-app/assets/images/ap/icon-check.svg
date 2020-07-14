@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>icon-check</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="web-card" transform="translate(-213.000000, -178.000000)">
+            <g id="Group-13">
+                <g id="web-card">
+                    <g id="Group-13">
+                        <g id="Group-9" transform="translate(213.000000, 178.000000)">
+                            <g id="icon-check">
+                                <circle id="Oval" stroke="#005350" fill="#005350" cx="8" cy="8" r="7.5"></circle>
+                                <path d="M11.3889261,5.0002021 C11.2689115,5.00377814 11.1550033,5.05393659 11.0713336,5.14005109 L6.31646834,9.89491647 L4.79527236,8.3737204 C4.67940666,8.25304084 4.50735283,8.20442834 4.34546599,8.24663103 C4.18357916,8.28883373 4.05715585,8.415257 4.01495311,8.57714383 C3.97275037,8.73903065 4.02136282,8.9110845 4.14204235,9.02695023 L5.98985333,10.8747612 C6.17025967,11.0550929 6.462677,11.0550929 6.64308334,10.8747612 L11.7245635,5.7932811 C11.8611908,5.66047368 11.9022715,5.45741101 11.8280107,5.28193974 C11.7537498,5.10646848 11.5793816,4.99458549 11.3889261,5.0002021 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

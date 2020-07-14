@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="10px" viewBox="0 0 25 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>icon-level</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="new-card" transform="translate(-124.000000, -78.000000)" fill="#015250" fill-rule="nonzero">
+            <g id="Group-17">
+                <g id="Group-7">
+                    <g id="Group-10" transform="translate(17.000000, 36.000000)">
+                        <g id="Group-9" transform="translate(13.000000, 10.000000)">
+                            <path d="M99,32 C96.25,32 94,34.25 94,37 C94,39.75 96.25,42 99,42 C101.40625,42 103.429688,40.273438 103.898438,38 L114,38 L114,42 L119,37 L114,32 L114,36 L103.898438,36 C103.429688,33.726562 101.40625,32 99,32 Z M99,34 C100.671876,34 102,35.328126 102,37 C102,38.671876 100.671876,40 99,40 C97.328126,40 96,38.671876 96,37 C96,35.328126 97.328126,34 99,34 Z" id="icon-level"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

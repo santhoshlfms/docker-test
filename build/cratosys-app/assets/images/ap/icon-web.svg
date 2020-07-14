@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>icon-web</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="web-card" transform="translate(-13.000000, -17.000000)" fill="#105CF8">
+            <g id="Group-13">
+                <g id="web-card">
+                    <g id="Group-13">
+                        <g id="icon-web" transform="translate(13.000000, 17.000000)">
+                            <circle id="Oval" fill-opacity="0.1" cx="12.5" cy="12.5" r="12.5"></circle>
+                            <path d="M7,6.66666667 C6.35541667,6.66666667 5.83333333,7.18875 5.83333333,7.83333333 L5.83333333,14.8333333 C5.83333333,15.4779167 6.35541667,16 7,16 L11.0833333,16 L11.0833333,17.1666667 L9.91666667,17.1666667 L9.91666667,18.3333333 L14.5833333,18.3333333 L14.5833333,17.1666667 L13.4166667,17.1666667 L13.4166667,16 L17.5,16 C18.1445833,16 18.6666667,15.4779167 18.6666667,14.8333333 L18.6666667,7.83333333 C18.6666667,7.18875 18.1445833,6.66666667 17.5,6.66666667 L7,6.66666667 Z M7,7.83333333 L17.5,7.83333333 L17.5,14.8333333 L7,14.8333333 L7,7.83333333 Z" id="web" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

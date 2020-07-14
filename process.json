@@ -1,0 +1,12 @@
+{
+  apps : [{
+    name: "app",
+    script: "./server.js"
+   },
+   {
+    name: "admin",
+    script: "./server.admin.js"
+   
+   
+  }]
+}
