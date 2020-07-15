@@ -57,12 +57,12 @@ http {
         }
 
         location / {
-             proxy_pass http://localhost:3030/;
+             proxy_pass http://localhost:6060/;
         }
 
     
         location /adminsetup {
-            proxy_pass http://localhost:4040/;
+            proxy_pass http://localhost:7070/;
         }
 
 
