@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>popup-new-item</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Invoice-template-flow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Invoice-view" transform="translate(-624.000000, -393.000000)">
+            <g id="Group-19" transform="translate(578.000000, 337.000000)">
+                <g id="popup-new-item" transform="translate(46.000000, 56.000000)">
+                    <rect id="Rectangle" fill="#F1F1F1" x="0" y="0" width="46" height="46" rx="23"></rect>
+                    <path d="M23,12 C16.92525,12 12,16.92525 12,23 C12,29.07475 16.92525,34 23,34 C29.07475,34 34,29.07475 34,23 C34,16.92525 29.07475,12 23,12 Z M29.0714286,24.4285714 L24.4285714,24.4285714 L24.4285714,29.0714286 C24.4285714,29.5849286 24.0125714,30 23.5,30 C22.9874286,30 22.5714286,29.5849286 22.5714286,29.0714286 L22.5714286,24.4285714 L17.9285714,24.4285714 C17.416,24.4285714 17,24.0135 17,23.5 C17,22.9865 17.416,22.5714286 17.9285714,22.5714286 L22.5714286,22.5714286 L22.5714286,17.9285714 C22.5714286,17.4150714 22.9874286,17 23.5,17 C24.0125714,17 24.4285714,17.4150714 24.4285714,17.9285714 L24.4285714,22.5714286 L29.0714286,22.5714286 C29.584,22.5714286 30,22.9865 30,23.5 C30,24.0135 29.584,24.4285714 29.0714286,24.4285714 Z" id="Shape" fill="#015250" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="10px" viewBox="0 0 10 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>icon-paid</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="AP-AccountCoding2" transform="translate(-475.000000, -385.000000)" fill="#15C872" fill-rule="nonzero">
+            <g id="Group-13" transform="translate(144.000000, 265.000000)">
+                <g id="Group-2" transform="translate(47.000000, 114.000000)">
+                    <path d="M292.950217,7.94021739 L288.801087,12.836087 L286.699565,10.8763043 L286.99587,10.5582609 L288.76413,12.2071739 L292.665435,7.60391304 C291.751522,6.61826087 290.446957,6 289,6 C286.242826,6 284,8.24282609 284,11 C284,13.7571739 286.242826,16 289,16 C291.757174,16 294,13.7571739 294,11 C294,9.84804348 293.607391,8.78652174 292.950217,7.94021739 Z" id="icon-paid"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

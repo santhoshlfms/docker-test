@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>icon-recording</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Mark-as" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Resolution-01" transform="translate(-1494.000000, -513.000000)" fill="#005350" fill-rule="nonzero">
+            <g id="Group-13" transform="translate(1448.000000, 264.000000)">
+                <g id="icon-record" transform="translate(46.000000, 249.000000)">
+                    <path d="M11,0 C4.9357253,0 0,4.9357253 0,11 C0,17.0642743 4.9357253,22 11,22 C17.0642743,22 22,17.0642743 22,11 C22,4.9357253 17.0642743,0 11,0 Z M11,1.83333333 C16.0734677,1.83333333 20.1666667,5.92653224 20.1666667,11 C20.1666667,16.0734677 16.0734677,20.1666667 11,20.1666667 C5.92653224,20.1666667 1.83333333,16.0734677 1.83333333,11 C1.83333333,5.92653224 5.92653224,1.83333333 11,1.83333333 Z M11,6.41666667 C8.4686949,6.41666667 6.41666667,8.4686949 6.41666667,11 C6.41666667,13.5313051 8.4686949,15.5833333 11,15.5833333 C13.5313051,15.5833333 15.5833333,13.5313051 15.5833333,11 C15.5833333,8.4686949 13.5313051,6.41666667 11,6.41666667 Z" id="icon-recording"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

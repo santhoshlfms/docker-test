@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>icon-info</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="93.4033321%" y1="4.2991393%" x2="40.2822152%" y2="88.020388%" id="linearGradient-1">
+            <stop stop-color="#15C872" offset="0%"></stop>
+            <stop stop-color="#0FB063" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Reports" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="AP-LandingPage-Header-Total-Invoice-fixed-view" transform="translate(-1823.000000, -211.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <path d="M1846,211 C1833.3093,211 1823,221.309295 1823,234 C1823,246.690705 1833.3093,257 1846,257 C1858.6907,257 1869,246.690705 1869,234 C1869,221.309295 1858.6907,211 1846,211 Z M1846,213 C1857.60982,213 1867,222.390176 1867,234 C1867,245.609824 1857.60982,255 1846,255 C1834.39018,255 1825,245.609824 1825,234 C1825,222.390176 1834.39018,213 1846,213 Z M1846,220 C1844.34315,220 1843,221.343146 1843,223 C1843,224.656854 1844.34315,226 1846,226 C1847.65685,226 1849,224.656854 1849,223 C1849,221.343146 1847.65685,220 1846,220 L1846,220 Z M1842,230 L1842,232 L1843,232 L1844,232 L1844,245 L1843,245 L1842,245 L1842,247 L1843,247 L1844,247 L1848,247 L1849,247 L1850,247 L1850,245 L1849,245 L1848,245 L1848,230 L1847,230 L1843,230 L1842,230 Z" id="icon-info"></path>
+        </g>
+    </g>
+</svg>

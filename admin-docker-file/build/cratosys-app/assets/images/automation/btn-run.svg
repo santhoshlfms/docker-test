@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="104px" height="38px" viewBox="0 0 104 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>btn-run</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="end" transform="translate(-161.000000, 0.000000)">
+            <g id="Group-17">
+                <g id="Group-14" transform="translate(161.500000, 0.000000)">
+                    <g id="btn-run">
+                        <path d="M12,0 L103,0 L103,0 L103,26 C103,32.627417 97.627417,38 91,38 L0,38 L0,38 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="Rectangle" fill="#015250"></path>
+                        <path d="M24,11 L24,25.5 L24.5506329,25.1787975 L35.78125,18.5712025 L36.3204114,18.25 L35.78125,17.9287975 L24.5506329,11.3212025 L24,11 Z M24.7341772,12.2848101 L34.8635285,18.25 L24.7341772,24.2151899 L24.7341772,12.2848101 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                        <text id="RUN" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="44" y="23">RUN</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

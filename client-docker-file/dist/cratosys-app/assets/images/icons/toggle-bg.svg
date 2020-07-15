@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="31px" height="80px" viewBox="0 0 31 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Rectangle</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Configuration-Flow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Layout+Menu-(First-level)" transform="translate(-674.000000, -885.000000)" fill="#004A47">
+            <g id="left-nav" transform="translate(0.000000, 90.000000)">
+                <g id="Group-4">
+                    <path d="M674,795.352974 L705,795.352974 L705,801.409547 C705,805.20063 703.345113,808.802836 700.46885,811.272537 L689.5,820.690934 C682.113238,827.033573 681.266809,838.163451 687.609448,845.550213 C688.172157,846.205556 688.782271,846.818655 689.43486,847.384556 L700.516887,856.994492 C703.364323,859.463687 705,863.047104 705,866.816032 L705,874.260645 L705,874.260645 L674,874.260645 L674,795.352974 Z" id="Rectangle"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

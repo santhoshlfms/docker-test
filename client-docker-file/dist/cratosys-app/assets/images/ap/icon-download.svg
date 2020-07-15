@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>icon-download</title>
+    <desc>Created with Sketch.</desc>
+    <g id="AP-Tile-view" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="AP-LandingPage" transform="translate(-1679.000000, -195.000000)" fill="#8D8D8D" fill-rule="nonzero">
+            <g id="Group-2" transform="translate(1679.000000, 189.000000)">
+                <path d="M5.6153845,14.4230768 L2.2461538,11.0538461 L4.4923076,11.0538461 L4.4923076,6.56153845 C4.4923076,6.25156923 4.74387683,6 5.05384605,6 L6.17692295,6 C6.48689217,6 6.7384614,6.25156923 6.7384614,6.56153845 L6.7384614,11.0538461 L8.9846152,11.0538461 L5.6153845,14.4230768 Z M-1.03916875e-13,16.1076921 L-1.03916875e-13,17.230769 L11.230769,17.230769 L11.230769,16.1076921 L-1.03916875e-13,16.1076921 Z" id="icon-download"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="165px" height="195px" viewBox="0 0 165 195" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Invoice-template-flow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Invoice-template-landing-page" transform="translate(-1524.000000, -422.000000)">
+            <g id="arrow" transform="translate(1606.958333, 516.000000) rotate(-105.000000) translate(-1606.958333, -516.000000) translate(1532.000000, 411.000000)">
+                <path d="M0.291666667,0.519397097 C3.88107072,32.8316839 18.1296721,69.0181368 43.0374708,109.078756 C67.9452695,149.139375 101.951284,179.387915 145.055515,199.824376" id="Line-3" stroke="#59C444" stroke-width="2" stroke-linecap="round" stroke-dasharray="20"></path>
+                <polygon id="Path" fill="#59C444" fill-rule="nonzero" transform="translate(138.250000, 196.583333) rotate(30.000000) translate(-138.250000, -196.583333) " points="133.238889 184.916667 131.833333 186.347778 141.886111 196.583333 131.833333 206.818889 133.238889 208.25 143.994444 197.298889 144.666667 196.583333 143.994444 195.867778"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

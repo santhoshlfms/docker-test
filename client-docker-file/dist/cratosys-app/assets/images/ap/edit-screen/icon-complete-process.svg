@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>icon-complete-process</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="AP-Custom-field-added-view" transform="translate(-1718.000000, -240.000000)" fill="#15C872" fill-rule="nonzero">
+            <g id="more-menu" transform="translate(1702.000000, 145.000000)">
+                <g id="icon-complete-process" transform="translate(16.000000, 95.000000)">
+                    <path d="M8,0 C3.58852174,0 0,3.58852174 0,8 C0,12.4114783 3.58852174,16 8,16 C12.4114783,16 16,12.4114783 16,8 C16,6.41391304 15.5340108,4.93541843 14.7350543,3.6908967 L14.2588317,4.25339687 C14.9179621,5.35044035 15.3043478,6.62956522 15.3043478,8 C15.3043478,12.0274783 12.0274783,15.3043478 8,15.3043478 C3.97252174,15.3043478 0.695652174,12.0274783 0.695652174,8 C0.695652174,3.97252174 3.97252174,0.695652174 8,0.695652174 C9.89321739,0.695652174 11.6152717,1.42600543 12.9144021,2.61209238 L13.3695652,2.07472828 C11.9486957,0.786032591 10.0643478,0 8,0 Z" id="Path"></path>
+                    <polygon id="Path" points="14.3430706 2.00135868 7.62228243 9.93206539 4.79347826 7.29347826 4.31929357 7.80230991 7.68138574 10.9381795 14.8743207 2.45108696"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
